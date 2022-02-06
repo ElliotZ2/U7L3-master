@@ -40,7 +40,7 @@ public class CustomerCheck
         return false;
     }
 
-    /** Calculates the final cost of this check, as described in part (c) */
+    /** Calculates the final cost of this check, as described in part (c)  */
     public double calculateCheck()
     {
         double finalCost = totalPrices();
